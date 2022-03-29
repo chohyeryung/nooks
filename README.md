@@ -4,3 +4,4 @@
     2. useTabs
   ### useEffect
     1. useTitle
+    2. useClick (with useRef)
